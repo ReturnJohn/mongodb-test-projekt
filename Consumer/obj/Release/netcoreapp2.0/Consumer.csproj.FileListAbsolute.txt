@@ -1,0 +1,11 @@
+C:\Users\THOMAS-LAB\Source\Repos\HelloworldExample\Consumer\bin\Release\netcoreapp2.0\Consumer.deps.json
+C:\Users\THOMAS-LAB\Source\Repos\HelloworldExample\Consumer\bin\Release\netcoreapp2.0\Consumer.runtimeconfig.json
+C:\Users\THOMAS-LAB\Source\Repos\HelloworldExample\Consumer\bin\Release\netcoreapp2.0\Consumer.runtimeconfig.dev.json
+C:\Users\THOMAS-LAB\Source\Repos\HelloworldExample\Consumer\bin\Release\netcoreapp2.0\Consumer.dll
+C:\Users\THOMAS-LAB\Source\Repos\HelloworldExample\Consumer\bin\Release\netcoreapp2.0\Consumer.pdb
+C:\Users\THOMAS-LAB\Source\Repos\HelloworldExample\Consumer\obj\Release\netcoreapp2.0\Consumer.csproj.CoreCompileInputs.cache
+C:\Users\THOMAS-LAB\Source\Repos\HelloworldExample\Consumer\obj\Release\netcoreapp2.0\Consumer.AssemblyInfoInputs.cache
+C:\Users\THOMAS-LAB\Source\Repos\HelloworldExample\Consumer\obj\Release\netcoreapp2.0\Consumer.AssemblyInfo.cs
+C:\Users\THOMAS-LAB\Source\Repos\HelloworldExample\Consumer\obj\Release\netcoreapp2.0\Consumer.dll
+C:\Users\THOMAS-LAB\Source\Repos\HelloworldExample\Consumer\obj\Release\netcoreapp2.0\Consumer.pdb
+C:\Users\THOMAS-LAB\Source\Repos\HelloworldExample\Consumer\obj\Release\netcoreapp2.0\Consumer.csprojResolveAssemblyReference.cache

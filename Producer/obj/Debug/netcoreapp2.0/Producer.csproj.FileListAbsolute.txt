@@ -1,0 +1,11 @@
+C:\Users\THOMAS-LAB\Source\Repos\HelloworldExample\Producer\bin\Debug\netcoreapp2.0\Producer.deps.json
+C:\Users\THOMAS-LAB\Source\Repos\HelloworldExample\Producer\bin\Debug\netcoreapp2.0\Producer.runtimeconfig.json
+C:\Users\THOMAS-LAB\Source\Repos\HelloworldExample\Producer\bin\Debug\netcoreapp2.0\Producer.runtimeconfig.dev.json
+C:\Users\THOMAS-LAB\Source\Repos\HelloworldExample\Producer\bin\Debug\netcoreapp2.0\Producer.dll
+C:\Users\THOMAS-LAB\Source\Repos\HelloworldExample\Producer\obj\Debug\netcoreapp2.0\Producer.csprojResolveAssemblyReference.cache
+C:\Users\THOMAS-LAB\Source\Repos\HelloworldExample\Producer\obj\Debug\netcoreapp2.0\Producer.csproj.CoreCompileInputs.cache
+C:\Users\THOMAS-LAB\Source\Repos\HelloworldExample\Producer\obj\Debug\netcoreapp2.0\Producer.AssemblyInfoInputs.cache
+C:\Users\THOMAS-LAB\Source\Repos\HelloworldExample\Producer\obj\Debug\netcoreapp2.0\Producer.AssemblyInfo.cs
+C:\Users\THOMAS-LAB\Source\Repos\HelloworldExample\Producer\bin\Debug\netcoreapp2.0\Producer.pdb
+C:\Users\THOMAS-LAB\Source\Repos\HelloworldExample\Producer\obj\Debug\netcoreapp2.0\Producer.dll
+C:\Users\THOMAS-LAB\Source\Repos\HelloworldExample\Producer\obj\Debug\netcoreapp2.0\Producer.pdb
